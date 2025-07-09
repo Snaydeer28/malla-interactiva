@@ -87,4 +87,9 @@
     "Nombre": "Ingeniería en Biotecnología",
     "Link": "IBT"
   }
+  {
+  "codigo": "IEN_UNMSM_2018",
+  "nombre": "Ingeniería Electrónica UNMSM 2018",
+  "archivo": "ien_unmsm_2018.json"
+  }
 ]
